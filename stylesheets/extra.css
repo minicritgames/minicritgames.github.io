@@ -1,0 +1,23 @@
+/*
+:root > * {
+    --md-primary-fg-color:          #ef681f;
+    --md-primary-fg-color--light:   #ef681f;
+    --md-primary-fg-color--dark:    #ef681f;
+    --md-accent-fg-color:           #efc1a9;
+    --md-accent-fg-color--light:    #efc1a9;
+    --md-accent-fg-color--dark:     #efc1a9;
+}
+*/
+.md-header__title .md-header__topic {
+    font-weight: 800;
+}
+.md-header__title[data-md-state=active] .md-header__topic {
+    font-weight: 300;
+}
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+    width: 2rem;
+    height: 2rem;
+}
+.md-header__button.md-logo {
+    padding: 0rem;
+}
