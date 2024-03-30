@@ -51,12 +51,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://www.minicrit.games/minikit/behaviour-tree/</loc>
+         <lastmod>2024-03-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.minicrit.games/minikit/helpers/</loc>
+         <lastmod>2024-03-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://www.minicrit.games/minikit/input-and-interface/</loc>
          <lastmod>2024-03-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.minicrit.games/minikit/lua/</loc>
+         <lastmod>2024-03-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.minicrit.games/minikit/state-machine/</loc>
          <lastmod>2024-03-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
