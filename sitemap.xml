@@ -2,87 +2,92 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://www.minicrit.games/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.minicrit.games/tyster/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.minicrit.games/battlerun/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.minicrit.games/blog/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.minicrit.games/blog/2023/11/05/4-years-ago-today-i-started-my-first-gamedev-job/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.minicrit.games/blog/2023/11/01/ai-generated-voiceovers/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.minicrit.games/blog/2023/07/17/how-to-get-a-game-dev-engineering-job-from-a-game-dev-engineer/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.minicrit.games/blog/2023/09/13/unity-pricing-changes/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.minicrit.games/minikit/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.minicrit.games/minikit/ability-system/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.minicrit.games/minikit/behaviour-tree/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.minicrit.games/minikit/helpers/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <loc>https://www.minicrit.games/minikit/framework/</loc>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.minicrit.games/minikit/input-and-interface/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.minicrit.games/minikit/inventory/</loc>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.minicrit.games/minikit/lua/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.minicrit.games/minikit/state-machine/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.minicrit.games/blog/archive/2023/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.minicrit.games/blog/category/linkedin/</loc>
-         <lastmod>2024-03-30</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
